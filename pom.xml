@@ -39,9 +39,9 @@
 								<objectStoreV2>true</objectStoreV2>
 								<properties>
 									<env>dev</env>
-								<!--  	<api.id>17280745</api.id>
+								  	<api.id>17280745</api.id>
 									<anypoint.platform.client_id>3a2d4db68aae4b4685c05a0f9a274670</anypoint.platform.client_id>
-									<anypoint.platform.client_secret>DAbA936cE0f244D9A3E1aF8B84E899B2</anypoint.platform.client_secret>-->
+									<anypoint.platform.client_secret>DAbA936cE0f244D9A3E1aF8B84E899B2</anypoint.platform.client_secret>
 								</properties>
 							</cloudHubDeployment>
 						</configuration>
@@ -68,9 +68,9 @@
 								<objectStoreV2>true</objectStoreV2>
 								<properties>
 									<env>test</env>
-								<!--  	<api.id>17280748</api.id>
+								  	<api.id>17280748</api.id>
 									<anypoint.platform.client_id>d9c67c92f8654c799a8cd1c719989010</anypoint.platform.client_id>
-									<anypoint.platform.client_secret>f1B928A1DfBE4C8C81fB6a9dA4D6617d</anypoint.platform.client_secret>-->
+									<anypoint.platform.client_secret>f1B928A1DfBE4C8C81fB6a9dA4D6617d</anypoint.platform.client_secret>
 								</properties>
 							</cloudHubDeployment>
 						</configuration>
@@ -99,8 +99,8 @@
 						<password>New@horizon9</password>
 						<properties>
 							<http.port>8081</http.port>
-						<!--  	<anypoint.platform.base_uri>https://anypoint.mulesoft.com</anypoint.platform.base_uri>
-							<anypoint.platform.analytics_base_uri>https://analytics-ingest.eu1.anypoint.mulesoft.com</anypoint.platform.analytics_base_uri>-->
+						  	<anypoint.platform.base_uri>https://anypoint.mulesoft.com</anypoint.platform.base_uri>
+							<anypoint.platform.analytics_base_uri>https://analytics-ingest.eu1.anypoint.mulesoft.com</anypoint.platform.analytics_base_uri>
 						</properties>
 					</cloudHubDeployment>
 				</configuration>
